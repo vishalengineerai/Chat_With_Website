@@ -1,0 +1,7 @@
+streamlit
+langchain
+langchain-groq
+langchain-community
+rank_bm25
+beautifulsoup4
+python-dotenv
